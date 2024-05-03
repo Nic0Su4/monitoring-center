@@ -2,3 +2,20 @@ node_modules/
 dist/
 
 .DS_Store
+
+logs/
+
+.env
+
+.env.test
+
+/mongo/
+
+/postgres/
+
+/coverage/
+
+
+/mongo-test/
+
+/postgres-test/
